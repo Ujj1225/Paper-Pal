@@ -24,7 +24,7 @@
     </p>
     <p align="center">
         <a href="https://github.com/Ujj1225/Paper-Pal/blob/master/LICENSE" target="blank">
-            <img src="https://img.shields.io/github/license/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="License" />
+            <img src="https://img.shields.io/github/license/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="License" />
         </a>
     </p>
 </p>
