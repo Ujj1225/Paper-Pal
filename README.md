@@ -5,25 +5,25 @@
 <p align="center">
     <p align="center">
         <a href="https://github.com/Ujj1225/PaperPal" target="blank">
-            <img src="https://img.shields.io/github/watchers/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="Watchers"/>
+            <img src="https://img.shields.io/github/watchers/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Watchers"/>
         </a>
         <a href="https://github.com/Ujj1225/PaperPal/fork" target="blank">
-            <img src="https://img.shields.io/github/forks/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="Forks"/>
+            <img src="https://img.shields.io/github/forks/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Forks"/>
         </a>
         <a href="https://github.com/Ujj1225/PaperPal/stargazers" target="blank">
-            <img src="https://img.shields.io/github/stars/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="Star"/>
+            <img src="https://img.shields.io/github/stars/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Star"/>
         </a>
     </p>
     <p align="center">
         <a href="https://github.com/Ujj1225/PaperPal/issues" target="blank">
-            <img src="https://img.shields.io/github/issues/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="Issue"/>
+            <img src="https://img.shields.io/github/issues/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Issue"/>
         </a>
         <a href="https://github.com/Ujj1225/PaperPal/pulls" target="blank">
-            <img src="https://img.shields.io/github/issues-pr/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="Open Pull Request"/>
+            <img src="https://img.shields.io/github/issues-pr/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Open Pull Request"/>
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/Ujj1225/PaperPal/blob/master/LICENSE" target="blank">
+        <a href="https://github.com/Ujj1225/Paper-Pal/blob/master/LICENSE" target="blank">
             <img src="https://img.shields.io/github/license/Ujj1225/PaperPal?style=for-the-badge&logo=appveyor" alt="License" />
         </a>
     </p>
