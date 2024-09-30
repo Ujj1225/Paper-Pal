@@ -1,24 +1,24 @@
-# PaperPal
+# Paper-Pal
 
-# <p align="center"><img src="https://github.com/Ujj1225/PaperPal/blob/main/client/src/assets/readme_logo.png" width=300 /></p>
+# <p align="center"><img src="https://github.com/Ujj1225/Paper-Pal/blob/main/client/src/assets/readme_logo.png" width=300 /></p>
 
 <p align="center">
     <p align="center">
-        <a href="https://github.com/Ujj1225/PaperPal" target="blank">
+        <a href="https://github.com/Ujj1225/Paper-Pal" target="blank">
             <img src="https://img.shields.io/github/watchers/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Watchers"/>
         </a>
-        <a href="https://github.com/Ujj1225/PaperPal/fork" target="blank">
+        <a href="https://github.com/Ujj1225/Paper-Pal/fork" target="blank">
             <img src="https://img.shields.io/github/forks/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Forks"/>
         </a>
-        <a href="https://github.com/Ujj1225/PaperPal/stargazers" target="blank">
+        <a href="https://github.com/Ujj1225/Paper-Pal/stargazers" target="blank">
             <img src="https://img.shields.io/github/stars/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Star"/>
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/Ujj1225/PaperPal/issues" target="blank">
+        <a href="https://github.com/Ujj1225/Paper-Pal/issues" target="blank">
             <img src="https://img.shields.io/github/issues/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Issue"/>
         </a>
-        <a href="https://github.com/Ujj1225/PaperPal/pulls" target="blank">
+        <a href="https://github.com/Ujj1225/Paper-Pal/pulls" target="blank">
             <img src="https://img.shields.io/github/issues-pr/Ujj1225/Paper-Pal?style=for-the-badge&logo=appveyor" alt="Open Pull Request"/>
         </a>
     </p>
@@ -36,7 +36,7 @@
 
 - **Multilingual Translation System**
 
-PaperPal now includes a multilingual translation system powered by cutting-edge models such as `facebook/nllb-200-distilled-600M`. This allows users to translate research papers into multiple languages, including English, French, Nepali, and Hindi. The translation feature enhances accessibility, enabling a broader range of users to benefit from research insights.
+Paper-Pal now includes a multilingual translation system powered by cutting-edge models such as `facebook/nllb-200-distilled-600M`. This allows users to translate research papers into multiple languages, including English, French, Nepali, and Hindi. The translation feature enhances accessibility, enabling a broader range of users to benefit from research insights.
 
 ### Translation Capabilities:
 
@@ -91,7 +91,7 @@ The application uses advanced natural language processing (NLP) techniques to ge
 
 <details>
   <summary> Paper Summarization </summary>
-  <img src="https://github.com/Ujj1225/PaperPal/blob/main/client/src/assets/summarize.png" width=750/>
+  <img src="https://github.com/Ujj1225/Paper-Pal/blob/main/client/src/assets/summarize.png" width=750/>
 </details>
 
 - Question and Answer System
@@ -100,7 +100,7 @@ The system leverages state-of-the-art models to answer questions about the conte
 
 <details>
   <summary> Question and Answer </summary>
-  <img src="https://github.com/Ujj1225/PaperPal/blob/main/client/src/assets/ask.png" width=750/>
+  <img src="https://github.com/Ujj1225/Paper-Pal/blob/main/client/src/assets/ask.png" width=750/>
 </details>
 
 - User-Friendly Interface
@@ -109,14 +109,14 @@ The platform includes a clean and intuitive interface where users can easily upl
 
 <details>
   <summary> User Interface </summary>
-  <img src="https://github.com/Ujj1225/PaperPal/blob/main/client/src/assets/ui.png" width=750/>
+  <img src="https://github.com/Ujj1225/Paper-Pal/blob/main/client/src/assets/ui.png" width=750/>
 </details>
 
 ## Installation
 
 ### Prerequisites
 
-Before running PaperPal, you must set it up by following the given setup procedure. You must set up the Frontend, Backend and Model separately. In case of any query, feel free to contact the contributors.
+Before running Paper-Pal, you must set it up by following the given setup procedure. You must set up the Frontend, Backend and Model separately. In case of any query, feel free to contact the contributors.
 
 ### Setup
 
@@ -125,7 +125,7 @@ Before running PaperPal, you must set it up by following the given setup procedu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ujj1225/PaperPal.git
+   git clone https://github.com/Ujj1225/Paper-Pal.git
    ```
 
 2. Installation of required packages
@@ -142,13 +142,6 @@ npm install
 ```bash
 cd backend
 npm install
-```
-
-### Model
-
-```bash
-cd model
-pip install llmware
 ```
 
 3. Setting up .env file for Backend
