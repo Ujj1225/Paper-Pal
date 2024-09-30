@@ -72,6 +72,13 @@ Paper-Pal now includes a multilingual translation system powered by cutting-edge
 - Focused Insights Extraction: The application highlights the most critical information, allowing users to quickly grasp important insights without extensive reading.
 - Expert-Level Q&A: The system answers specific questions about research papers with detailed explanations, providing users with expert-level guidance and understanding.
 
+## About Models/Api
+
+In this project, we have used two LLAMA models from Hugging face for our application and have created two api's for them. 
+
+1. TinyLlama-1.1B-Chat-v1.0: for chat system and summarization
+2. facebook/nllb-200-distilled-600M: for translation
+
 ## Demo
 
 https://github.com/user-attachments/assets/33fcdb79-403e-47c4-b3da-e547c4c0f6e4
