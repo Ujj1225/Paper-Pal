@@ -74,7 +74,7 @@ Paper-Pal now includes a multilingual translation system powered by cutting-edge
 
 ## Demo
 
-https://github.com/user-attachments/assets/948d1169-2368-4d46-8fd7-65997c601730
+https://github.com/user-attachments/assets/33fcdb79-403e-47c4-b3da-e547c4c0f6e4
 
 ## Table of Contents
 
