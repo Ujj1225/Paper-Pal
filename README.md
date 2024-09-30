@@ -179,11 +179,11 @@ npm install
 
 ### Frontend
 
-- For frontend can be found in [package.json](./Client%20/package.json)
+- For frontend can be found in [package.json](./client%20/package.json)
 
 ### Backend
 
-- For backend can be found in [package.json](./Backend/package.json)
+- For backend can be found in [package.json](./backend/package.json)
 
 ### Model
 
