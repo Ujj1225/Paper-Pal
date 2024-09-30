@@ -189,6 +189,9 @@ npm install
 
 - Llma's specialized model namely "TinyLlama-1.1B-Chat-v1.0" and "facebook/nllb-200-distilled-600M" is used for this project.
 
+## Dev.to Link 
+[Article on Dev.to](https://dev.to/ujj1225/revolutionizing-research-with-paperpal-ai-powered-summarization-qa-tool-for-researchers-4beb)
+
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
